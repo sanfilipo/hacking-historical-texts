@@ -15,7 +15,7 @@ Department of History<br />
 
 ## Student Info
 
-[Frederick Sanfilipo] (mailto:sanfilipo@mail.usf.edu)
+[Frederick Sanfilipo](mailto:sanfilipo@mail.usf.edu)
 
 ## Textbook
 
